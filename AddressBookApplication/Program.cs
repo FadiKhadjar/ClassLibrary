@@ -2,9 +2,6 @@
 using System;
 
 Console.Clear();
-MenuService.ShowMenu();
-Console.ReadKey();
-
 MenuService.AddContactMenu();
 
 Console.Clear();
